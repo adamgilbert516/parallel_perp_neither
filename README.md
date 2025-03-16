@@ -1,9 +1,9 @@
 <h1>Parallel, Perpendicular, or Neither </h1>
 
 <h2>Description</h2>
-A game written on MIT's Scratch intended as a fun introductory Warm Up activity for Geometry students learning about parallel and perpendicular lines. Players drag images into buckets and are awarded points for the correct buckets.
+A game written on MIT's scratch intended as a fun introductory Warm Up activity for Geometry students learning about parallel and perpendicular lines. Players drag images into buckets and are awarded points for the correct buckets.
 
-Link to game here. (https://scratch.mit.edu/projects/1143810607)
+[Link to scratch game here.](https://scratch.mit.edu/projects/1143810607)
 <br />
 
 
